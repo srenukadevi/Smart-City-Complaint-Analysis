@@ -1,5 +1,5 @@
-Smart City Complaint Analysis
-📌 Problem Statement
+# Smart City Complaint Analysis
+ ##  Problem Statement
 
 Modern cities receive thousands of citizen complaints daily regarding garbage collection, water supply, road damage, street light failures, traffic congestion, drainage issues, and public safety concerns. As urban populations grow, manually tracking and resolving complaints becomes increasingly challenging.
 
@@ -13,11 +13,11 @@ Which services require immediate improvement?
 
 This project develops a Smart City Complaint Analytics Dashboard to analyze complaint patterns, service efficiency, complaint hotspots, and citizen satisfaction, enabling informed decision-making and improved urban service delivery.
 
-📊 Dataset Description
+## Dataset Description
 
 The dataset contains 100,000 smart city complaint records generated for civic analytics and service performance analysis.
 
-Dataset Features
+### Dataset Features
 Column Name	Description
 Complaint_ID	Unique complaint identifier
 Complaint_Date	Date complaint was registered
@@ -44,11 +44,11 @@ Traffic Congestion
 Drainage Issue
 Sewage Overflow
 Public Safety
-📈 KPI Definitions
+## KPI Definitions
 
 The following KPIs were designed to evaluate city operational health and service efficiency.
 
-KPI	Definition
+### KPI	Definition
 Total Complaints	Total complaints received
 Resolved Complaints	Total complaints resolved
 Resolution Rate	Percentage of resolved complaints
@@ -72,46 +72,12 @@ Severity Score
 Low = 1
 Medium = 2
 High = 3
-🖥️ Dashboard Screenshots
+## Dashboard 
 Executive Overview Dashboard
-
-Insert screenshot here.
-
-images/Executive_Overview.png
-Includes:
-Total Complaints
-Resolution Rate
-Citizen Satisfaction Score
-Average Resolution Time
-Complaint Trend Analysis
 Complaint Dashboard
-
-Insert screenshot here.
-
-images/Complaint_Dashboard.png
-Includes:
-Complaint Categories
-Resolution Patterns
-Complaint Growth Trends
 Geographic Dashboard
-
-Insert screenshot here.
-
-images/Geographic_Dashboard.png
-Includes:
-Zone-wise Issues
-Complaint Hotspots
-Geographic Distribution
 Service Performance Dashboard
-
-Insert screenshot here.
-
-images/Service_Performance.png
-Includes:
-Department Performance
-Resolution Efficiency
-Priority Handling
-🔍 Key Findings
+## Key Findings
 1. Complaint Categories
 
 Infrastructure and public utility complaints account for the majority of citizen grievances, indicating the need for continuous monitoring and maintenance.
@@ -135,7 +101,7 @@ Recurring issues continue in hotspot zones
 
 Complaint volumes fluctuate throughout the year, indicating seasonal patterns and recurring civic challenges.
 
-💡 Recommendations
+## Recommendations
 Improve High-Priority Complaint Handling
 
 Implement priority-based routing to ensure urgent complaints receive immediate attention.
@@ -156,7 +122,7 @@ Implement Real-Time Monitoring
 
 Use dashboards and automated alerts to track operational performance continuously.
 
-🚀 Future Scope
+## Future Scope
 
 The project can be further enhanced using advanced analytics and smart city technologies.
 
