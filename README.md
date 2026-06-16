@@ -19,61 +19,73 @@ The dataset contains 100,000 smart city complaint records generated for civic an
 
 ### Dataset Features
 
-Column Name	Description
-Complaint_ID	Unique complaint identifier
-Complaint_Date	Date complaint was registered
-Resolved_Date	Date complaint was resolved
-Zone	City zone where complaint originated
-Category	Complaint category
-Department	Responsible department
-Priority	Low, Medium, High
-Status	Open / Resolved
-Satisfaction_Score	Citizen rating (1–5)
-Description	Complaint description
-Resolution_Days	Days taken to resolve
-Severity_Score	Numerical priority score
-Resolution_Delay	Resolved Date − Complaint Date
-Complaint_Month	Month extracted from complaint date
-Complaint_Year	Year extracted from complaint date
-Quarter	Quarter extracted from complaint date
-Complaint Categories
-Garbage Collection
-Water Supply
-Road Damage
-Street Light Failure
-Traffic Congestion
-Drainage Issue
-Sewage Overflow
-Public Safety
+## 📂 Dataset Features
+
+| Column Name | Description |
+|------------|------------|
+| Complaint_ID | Unique complaint identifier |
+| Complaint_Date | Date complaint was registered |
+| Resolved_Date | Date complaint was resolved |
+| Zone | City zone where complaint originated |
+| Category | Complaint category |
+| Department | Responsible department |
+| Priority | Low, Medium, High |
+| Status | Open / Resolved |
+| Satisfaction_Score | Citizen rating (1–5) |
+| Description | Complaint description |
+| Resolution_Days | Days taken to resolve |
+| Severity_Score | Numerical priority score |
+| Resolution_Delay | Resolved Date − Complaint Date |
+| Complaint_Month | Month extracted from complaint date |
+| Complaint_Year | Year extracted from complaint date |
+| Quarter | Quarter extracted from complaint date |
+## Complaint Categories
+
+- Garbage Collection
+- Water Supply
+- Road Damage
+- Street Light Failure
+- Traffic Congestion
+- Drainage Issue
+- Sewage Overflow
+- Public Safety
 ## KPI Definitions
 
 The following KPIs were designed to evaluate city operational health and service efficiency.
+## KPI Definitions
 
-### KPI	Definition
+| KPI | Definition |
+|------|------------|
+| Total Complaints | Total complaints received |
+| Resolved Complaints | Total complaints resolved |
+| Resolution Rate | Percentage of resolved complaints |
+| Average Resolution Time | Average days required to resolve complaints |
+| High Priority Complaints | Number of High severity complaints |
+| Citizen Satisfaction Score | Average citizen feedback rating |
+| Complaint Hotspot Zones | Zones with highest complaint volume |
+| Department Performance Score | Department efficiency based on resolution time |
 
-Total Complaints	Total complaints received
-Resolved Complaints	Total complaints resolved
-Resolution Rate	Percentage of resolved complaints
-Average Resolution Time	Average days required to resolve complaints
-High Priority Complaints	Number of High severity complaints
-Citizen Satisfaction Score	Average citizen feedback rating
-Complaint Hotspot Zones	Zones with highest complaint volume
-Department Performance Score	Department efficiency based on resolution time
-KPI Formula Examples
+## 🧮 KPI Formula Examples
 
-Resolution Rate (%)
+### Resolution Rate (%)
 
+```text
 (Resolved Complaints / Total Complaints) × 100
+```
 
-Resolution Delay
+### Resolution Delay
 
+```text
 Resolved Date - Complaint Date
+```
 
-Severity Score
+### Severity Score
 
-Low = 1
+```text
+Low    = 1
 Medium = 2
-High = 3
+High   = 3
+```
 ## Dashboard 
 Executive Overview Dashboard
 Complaint Dashboard
