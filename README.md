@@ -5,19 +5,17 @@ Modern cities receive thousands of citizen complaints daily regarding garbage co
 
 City authorities need a data-driven system to answer critical questions:
 
--Which complaint categories occur most frequently?
--Which zones experience recurring issues?
--Which departments take the longest to resolve complaints?
--What factors affect citizen satisfaction?
--Which services require immediate improvement?
+- Which complaint categories occur most frequently?
+- Which zones experience recurring issues?
+- Which departments take the longest to resolve complaints?
+- What factors affect citizen satisfaction?
+- Which services require immediate improvement?
 
 This project develops a Smart City Complaint Analytics Dashboard to analyze complaint patterns, service efficiency, complaint hotspots, and citizen satisfaction, enabling informed decision-making and improved urban service delivery.
 
 ## Dataset Description
 
 The dataset contains 100,000 smart city complaint records generated for civic analytics and service performance analysis.
-
-### Dataset Features
 
 ## 📂 Dataset Features
 
@@ -87,10 +85,10 @@ Medium = 2
 High   = 3
 ```
 ## Dashboard 
-Executive Overview Dashboard
-Complaint Dashboard
-Geographic Dashboard
-Service Performance Dashboard
+- Executive Overview Dashboard
+- Complaint Dashboard
+- Geographic Dashboard
+- Service Performance Dashboard
 ## Key Findings
 1. Complaint Categories
 
@@ -116,21 +114,21 @@ Recurring issues continue in hotspot zones
 Complaint volumes fluctuate throughout the year, indicating seasonal patterns and recurring civic challenges.
 
 ## Recommendations
-Improve High-Priority Complaint Handling
+- Improve High-Priority Complaint Handling
 
-Implement priority-based routing to ensure urgent complaints receive immediate attention.
+- Implement priority-based routing to ensure urgent complaints receive immediate attention.
 
-Strengthen Underperforming Departments
+- Strengthen Underperforming Departments
 
-Allocate additional resources and streamline workflows for departments with longer resolution times.
+- Allocate additional resources and streamline workflows for departments with longer resolution times.
 
-Focus on Complaint Hotspots
+- Focus on Complaint Hotspots
 
-Conduct preventive maintenance and infrastructure upgrades in recurring issue zones.
+- Conduct preventive maintenance and infrastructure upgrades in recurring issue zones.
 
-Enhance Citizen Experience
+- Enhance Citizen Experience
 
-Improve communication and provide timely updates regarding complaint status.
+- Improve communication and provide timely updates regarding complaint status.
 
 Implement Real-Time Monitoring
 
@@ -140,12 +138,12 @@ Use dashboards and automated alerts to track operational performance continuousl
 
 The project can be further enhanced using advanced analytics and smart city technologies.
 
-Future Enhancements
-AI-based complaint classification using NLP
-Predictive analytics for complaint forecasting
-GIS-based location intelligence
-Real-time complaint monitoring dashboard
-Automated alerts for high-priority complaints
-Machine Learning models for resolution delay prediction
+- Future Enhancements
+- AI-based complaint classification using NLP
+- Predictive analytics for complaint forecasting
+- GIS-based location intelligence
+- Real-time complaint monitoring dashboard
+- Automated alerts for high-priority complaints
+- Machine Learning models for resolution delay prediction
 Citizen sentiment analysis using complaint text
 Smart resource allocation recommendations
