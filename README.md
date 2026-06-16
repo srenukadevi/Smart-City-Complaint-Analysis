@@ -5,11 +5,11 @@ Modern cities receive thousands of citizen complaints daily regarding garbage co
 
 City authorities need a data-driven system to answer critical questions:
 
-Which complaint categories occur most frequently?
-Which zones experience recurring issues?
-Which departments take the longest to resolve complaints?
-What factors affect citizen satisfaction?
-Which services require immediate improvement?
+-Which complaint categories occur most frequently?
+-Which zones experience recurring issues?
+-Which departments take the longest to resolve complaints?
+-What factors affect citizen satisfaction?
+-Which services require immediate improvement?
 
 This project develops a Smart City Complaint Analytics Dashboard to analyze complaint patterns, service efficiency, complaint hotspots, and citizen satisfaction, enabling informed decision-making and improved urban service delivery.
 
