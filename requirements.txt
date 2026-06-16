@@ -1,0 +1,7 @@
+🔹Python
+🔹Pandas
+🔹NumPy
+🔹Matplotlib
+🔹Seaborn
+🔹Power BI
+🔹Jupyter Notebook
