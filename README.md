@@ -48,7 +48,7 @@ Public Safety
 
 The following KPIs were designed to evaluate city operational health and service efficiency.
 
-### KPI	Definition
+## KPI	Definition
 Total Complaints	Total complaints received
 Resolved Complaints	Total complaints resolved
 Resolution Rate	Percentage of resolved complaints
