@@ -18,6 +18,7 @@ This project develops a Smart City Complaint Analytics Dashboard to analyze comp
 The dataset contains 100,000 smart city complaint records generated for civic analytics and service performance analysis.
 
 ### Dataset Features
+
 Column Name	Description
 Complaint_ID	Unique complaint identifier
 Complaint_Date	Date complaint was registered
@@ -48,7 +49,8 @@ Public Safety
 
 The following KPIs were designed to evaluate city operational health and service efficiency.
 
-## KPI	Definition
+### KPI	Definition
+
 Total Complaints	Total complaints received
 Resolved Complaints	Total complaints resolved
 Resolution Rate	Percentage of resolved complaints
