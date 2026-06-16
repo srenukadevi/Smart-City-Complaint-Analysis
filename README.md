@@ -90,26 +90,26 @@ High   = 3
 - Geographic Dashboard
 - Service Performance Dashboard
 ## Key Findings
-1. Complaint Categories
+### 1. Complaint Categories
 
 Infrastructure and public utility complaints account for the majority of citizen grievances, indicating the need for continuous monitoring and maintenance.
 
-2. Complaint Hotspots
+### 2. Complaint Hotspots
 
 Certain city zones consistently generate higher complaint volumes, suggesting recurring infrastructure or service-related issues.
 
-3. Department Performance
+### 3. Department Performance
 
 Resolution times vary across departments, highlighting differences in operational efficiency and workload management.
 
-4. Citizen Satisfaction
+### 4. Citizen Satisfaction
 
 Citizen satisfaction decreases when:
 
-Resolution times increase
-High-priority complaints remain unresolved
-Recurring issues continue in hotspot zones
-5. Complaint Trends
+- Resolution times increase
+- High-priority complaints remain unresolved
+- Recurring issues continue in hotspot zones
+### 5. Complaint Trends
 
 Complaint volumes fluctuate throughout the year, indicating seasonal patterns and recurring civic challenges.
 
@@ -130,9 +130,9 @@ Complaint volumes fluctuate throughout the year, indicating seasonal patterns an
 
 - Improve communication and provide timely updates regarding complaint status.
 
-Implement Real-Time Monitoring
+- Implement Real-Time Monitoring
 
-Use dashboards and automated alerts to track operational performance continuously.
+- Use dashboards and automated alerts to track operational performance continuously.
 
 ## Future Scope
 
